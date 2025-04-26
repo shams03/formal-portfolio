@@ -56,7 +56,7 @@ const ExperienceSection = () => {
       id: 2,
       role: "Software Developer Intern",
       company: "Swapdigit IT services",
-      duration: "June 2024 - July 2025",
+      duration: "June 2024 - July 2024",
       location: "UP, India",
       description: [
         "Developed solutions to analyze historical performance of applications using npm-winston, Prometheus, and Grafana.",
