@@ -86,7 +86,7 @@ const ProjectsSection = () => {
       description:
         "A full stack Twitter clone built with Next.js , GraphQl , Prisma and Postgresql. Features include user authentication, tweet creation, and real-time updates ,with AWS S3 for image storage.",
       image: "/x-clone.png",
-      technologies: ["JavaScript", "API Integration", "Chart.js", "CSS"],
+      technologies: ["AWS" ,"TypeScript", "Next.js", "GraphQl", "Tailwind CSS", "Prisma" , "PostgreSQL"],
       githubUrl: "https://github.com/shams03/X-clone",
       liveUrl: "",
     },
